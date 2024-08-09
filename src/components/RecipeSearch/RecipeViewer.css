@@ -1,0 +1,19 @@
+.recipe-viewer {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 15px;
+    box-shadow: gray 10px 10px 10px;
+}
+
+.tags {
+    text-align: center;
+    margin-top: 20px;
+}
